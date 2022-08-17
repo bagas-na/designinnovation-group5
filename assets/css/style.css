@@ -743,7 +743,7 @@ section {
   bottom: 0;
   z-index: 3;
   transition: all ease-in-out 0.3s;
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(249, 250, 251, 0.9);
   padding: 15px;
 }
 
@@ -751,7 +751,7 @@ section {
   font-size: 18px;
   color: #fff;
   font-weight: 600;
-  color: #5f687b;
+  color: #DB4540;
 }
 
 .portfolio .portfolio-item .portfolio-info p {
@@ -766,7 +766,7 @@ section {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: #206bfb;
+  color: #b0b0b0;
   transition: 0.3s;
 }
 
